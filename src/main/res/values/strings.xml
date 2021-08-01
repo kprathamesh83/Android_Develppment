@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">NotesApp</string>
+    <string name="welcome_to_notes">Welcome to notes</string>
+    <string name="login">Login to continue</string>
+    <string name="email_id">Enter your email id</string>
+    <string name="password">Enter your password</string>
+    <string name="log_in">Login</string>
+    <string name="sign_up">Sign up</string>
+    <string name="forgot_password">Forgot Password</string>
+    <string name="new_user">New User</string>
+    <string name="sign_up_to_continue">Sign up to continue</string>
+    <string name="go_back_to_login_page">Go back to login page</string>
+    <string name="enter_email_to_continue">Enter email to continue</string>
+    <string name="enter_registered_email">Enter your registered email</string>
+    <string name="click_here_to_recover">Click here to recover</string>
+    <string name="edit">Edit</string>
+    <string name="logout">Logout</string>
+</resources>
